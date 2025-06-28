@@ -1,12 +1,13 @@
 /*
  * LED.c
  *
- *  Created on: Nov 5, 2023
- *      Author:
+ *  Created on: April 14th, 2025
+ *      Author: Siddharth Deshpande and Akshay Karthik
  */
 #include <ti/devices/msp/msp.h>
 #include "../inc/LaunchPad.h"
 // LaunchPad.h defines all the indices into the PINCM table
+
 
 // initialize your LEDs
 void LED_Init(void){
