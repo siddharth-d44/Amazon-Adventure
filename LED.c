@@ -8,6 +8,10 @@
 #include "../inc/LaunchPad.h"
 // LaunchPad.h defines all the indices into the PINCM table
 
+
+// This is my test change comment
+// This is another comment
+
 // initialize your LEDs
 void LED_Init(void){
 
