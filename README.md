@@ -1,0 +1,1 @@
+A 90s style retro video game called Amazon Adventure. Created in collaboration with Akshay Karthik using an MSPM0 Microcontroller, an ST7735 LCD display, as well as features such as buttons, LED lights, a slide potentiometer, and a speaker. All software is developed in C and the game is embedded with a printed circuit board created using KiCad.
